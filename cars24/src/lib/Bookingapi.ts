@@ -1,4 +1,4 @@
-const BASE_URL = "https://carsszone.onrender.com/api/Booking";
+const BASE_URL = "https://carszon.onrender.com/api/Booking";
 
 export const createBooking = async (userid: string, Booking: any) => {
   const response = await fetch(`${BASE_URL}?userId=${userid}`, {
