@@ -1,4 +1,4 @@
-const BASE_URL = "https://carsszone.onrender.com/api/Car";
+const BASE_URL = "https://carszon.onrender.com/api/Car";
 
 type CarDetails = {
   title: string;
