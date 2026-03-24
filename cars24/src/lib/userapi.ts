@@ -1,4 +1,4 @@
-const BASE_URL = "https://carsszone.onrender.com/api/UserAuth";
+const BASE_URL = "https://carszon.onrender.com/api/UserAuth";
 
 export const signup = async (
   email: string,
