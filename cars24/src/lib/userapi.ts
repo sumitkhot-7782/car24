@@ -1,4 +1,4 @@
-const BASE_URL = "https://cars-24-clone-net-nextjs.onrender.com/api/UserAuth";
+const BASE_URL = "https://carsszone.onrender.com/api/UserAuth";
 
 export const signup = async (
   email: string,
